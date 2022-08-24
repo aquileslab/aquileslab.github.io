@@ -7,3 +7,5 @@ tags: [test]
 ---
 
 Just a post for test a custom integration for write the posts in a more live colaborative way.
+
+![](https://i.imgur.com/TVCm7Hk.png)
