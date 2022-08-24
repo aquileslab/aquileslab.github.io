@@ -3,7 +3,7 @@ title: Testing Colaborative Posts
 author: 
     name: aitor
     link: https://www.linkedin.com/in/aitordelcastillo/
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
+date: 2022-08-24 10:40:00 +/-TTTT
 categories: [test, welcome]
 tags: [test]
 
